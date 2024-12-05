@@ -41,6 +41,23 @@ header nav ul li a:hover {
   text-decoration: underline;
 }
 
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  width: 50px; /* Ajusta el tamaño del logo */
+  height: auto;
+  margin-right: 10px; /* Espacio entre el logo y el texto */
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0;
+}
+
+
 .intro {
   text-align: center;
   padding: 60px 20px;
